@@ -1,0 +1,38 @@
+4\. _posts/0000-01-02-OlgaSaenko.md
+5\. 
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Library/
+Builds/
+ 
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+obj/
+*.svd
+*.userprefs
+/*.csproj
+*.pidb
+*.suo
+/*.sln
+*.user
+*.unityproj
+*.booproj
+ 
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db*
+
+*.apk
+*.log
+iOS
